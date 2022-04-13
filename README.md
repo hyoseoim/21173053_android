@@ -17,3 +17,10 @@
 <img width="" height="" src="./pic/플랫폼mainactivity1.png"> </img>
 <img width="" height="" src="./pic/플랫폼mainactivity2.png"> </img>
 
+### 6주차 과제
+<img width="" height="" src="./pic/플랫폼 activity_main.xml 이미지1.png"> </img>
+<img width="" height="" src="./pic/플랫폼 activity_main.xml 이미지2.png"> </img>
+<img width="" height="" src="./pic/플랫폼 activity_main.xml 이미지3.png"> </img>
+<img width="" height="" src="./pic/플랫폼 MainActivity.java 이미지1.png"> </img>
+<img width="" height="" src="./pic/플랫폼 MainActivity.java 이미지2.png"> </img>
+<img width="" height="" src="./pic/플랫폼 이미지 버튼.png"> </img>
