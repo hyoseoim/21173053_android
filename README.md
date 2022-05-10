@@ -28,3 +28,9 @@
 <img width="" height="" src="./pic/플랫폼 결과 이미지2.png"> </img>
 <img width="" height="" src="./pic/플랫폼 결과 이미지3.png"> </img>
 <img width="" height="" src="./pic/플랫폼 결과 이미지4.png"> </img>
+
+
+###### 10주차 과제 
+-  Main, Menu 두 개의 실습 캡처화면 제출 과제
+<img width="" height="" src="./pic/메뉴 화면.png"> </img>
+<img width="" height="" src="./pic/.png"> </img>
