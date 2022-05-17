@@ -33,3 +33,11 @@
 ###### 10주차 과제 
 <img width="" height="" src="./pic/메뉴 화면.png"> </img>
 <img width="" height="" src="./pic/액티비티.png"> </img>
+
+
+###### 11주차 과제 
+<img width="" height="" src="./pic/플랫폼 11주차 과제.png"> </img>
+<img width="" height="" src="./pic/2.png"> </img>
+<img width="" height="" src="./pic/3.png"> </img>
+<img width="" height="" src="./pic/4.png"> </img>
+<img width="" height="" src="./pic/5.png"> </img>
