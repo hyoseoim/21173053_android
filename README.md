@@ -1,11 +1,16 @@
 
 # 기말고사 백업 사진본
 
+- 순위(rank), 누적 관객수(audiAcc), 개봉일(openDt)
+- 영화제목, 관객수 이외에 3가지 항목을 더 추가하여 프로그램을 실행시켰을 때 나타나게 하였습니다.
+- 색상과 left, right, center 중 자리배치를 모두 다르게 나타냈습니다.
+
 <img width="" height="" src="./pic/1.png"> </img>
 <img width="" height="" src="./pic/2.png"> </img>
 <img width="" height="" src="./pic/3.png"> </img>
 <img width="" height="" src="./pic/4.png"> </img>
 <img width="" height="" src="./pic/5.png"> </img>
+<img width="" height="" src="./pic/5.5.png"> </img>
 <img width="" height="" src="./pic/6.png"> </img>
 <img width="" height="" src="./pic/7.png"> </img>
 <img width="" height="" src="./pic/8.png"> </img>
