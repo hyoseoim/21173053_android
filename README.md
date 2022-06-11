@@ -1,3 +1,21 @@
+
+# 기말고사 백업 사진본
+<img width="" height="" src="./pic/1.png"> </img>
+<img width="" height="" src="./pic/2.png"> </img>
+<img width="" height="" src="./pic/3.png"> </img>
+<img width="" height="" src="./pic/4.png"> </img>
+<img width="" height="" src="./pic/5.png"> </img>
+<img width="" height="" src="./pic/6.png"> </img>
+<img width="" height="" src="./pic/7.png"> </img>
+<img width="" height="" src="./pic/8.png"> </img>
+
+
+
+
+
+
+
+
 # 2주차 (2022-03-15)
 - 안드로이드 스튜디오 설치 && 깃허브 가입 및 저장소 생성
 
